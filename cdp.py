@@ -43,7 +43,7 @@ devices = pcapy.findalldevs()
 sg.theme('LightGray1')
 
 layout = [  [sg.Text('Welcome to port checker')],
-            [sg.Text('Your connections: ')], 
+            [sg.Text('Your connections: '), sg.Text(devices)], 
             [sg.Button('Find port'), sg.Button('Cancel')]
 ]
 
