@@ -1,4 +1,4 @@
-#Based on code from github user chrisbog https://github.com/CiscoSE/cdp_discover/blob/master/cdp.py
+#Based on code from https://allones.de/2018/10/31/python-scapy-capturing-cisco-discovery-protocol-cdp/
 #Modified by Cameron Cunningham
 #This is a Cisco Discovery Protocol(CDP) tool designed to tell you what port on which switch you' re connected to
 
