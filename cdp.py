@@ -20,7 +20,7 @@ interface = 'Ethernet'
 capfilter = 'ether dst 01:00:0c:cc:cc:cc'
 
 #packet = sniff(iface = interface, count=2 , filter=capfilter)
-##packet
+#packet
 #packet.display()
 
 layout = [  [sg.Text('Welcome to port checker')], 
