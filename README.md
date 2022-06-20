@@ -5,7 +5,7 @@ It displays the hostname of the switch you are on and what port you are connecte
 
 
 # Requirements:
-Use the package manger [pip] to install the required libraries
+Use the package manger pip to install the required libraries
 
 ```bash
 pip install pysimplegui
