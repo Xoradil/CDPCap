@@ -4,7 +4,6 @@
 
 import PySimpleGUI as sg
 from scapy.all import *
-from pkg_resources._vendor.jaraco.context import null
 
 sg.theme('LightGray1') 
  
